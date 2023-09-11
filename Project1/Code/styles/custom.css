@@ -1,0 +1,36 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../../need-fonts/Roboto/Roboto-Regular.ttf) format("truetype");
+    line-height: 1.6;
+}
+
+@font-face {
+    font-family: "Roboto-medium";
+    src: url(../../need-fonts/Roboto/Roboto-Medium.ttf) format("truetype");
+    line-height: 1.2;
+}
+
+@font-face {
+    font-family: "Archivo";
+    src: url(../../need-fonts/Archivo/Archivo-Black.ttf) format("truetype");
+    line-height: 2;
+}
+
+:root{
+    --yellow: #FFB63B;
+    --pink: #FFD2C6;
+    --redOne: #FF8A6C;
+    --redTwo: #E76F51;
+    --gray: #8D8D8D;
+    --darkGray: #3B3735;
+    --white: #fff;
+    --allback: #F8E1DB;
+}
